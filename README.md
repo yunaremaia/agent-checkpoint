@@ -42,7 +42,7 @@ Step 5 (pending)     Different decisions (drift!)        Same decisions preserve
 ## Install
 
 ```bash
-pip install agent-checkpoint
+pip install git+https://github.com/yunaremaia/agent-checkpoint.git
 ```
 
 ## Quick Start
